@@ -1,4 +1,5 @@
 # Cashier-Queue-System
+![Alt Text](http://g.recordit.co/MiDH759BdK.gif)
 
 ## Table of contents
 * [General Info](#general-info)
@@ -32,3 +33,9 @@ Compile this code from Main Code
 
 ## Linked List
 ![Alt Text](http://g.recordit.co/QJQJMPze0C.gif)
+
+## Team
+Ariq Mahira - 1806187575
+Variscia Permata Putri - 1806228316
+
+## References
