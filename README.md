@@ -1,5 +1,6 @@
 # Cashier-Queue-System
 ![Alt Text](http://g.recordit.co/MiDH759BdK.gif)
+Cashier Queue System is a project that imitates queue system on cashier. This program is created for 'Algorithm Programming' Courses written in C language. there are three main functions in this program, which are queue, display, and account (log in system).
 
 ## Table of contents
 * [General Info](#general-info)
@@ -31,11 +32,13 @@ Compile this code from Main Code
 ## Technical Interface 
 ![Alt Text](http://g.recordit.co/HjP9P2RCXH.gif)
 
+
 ## Linked List
 ![Alt Text](http://g.recordit.co/QJQJMPze0C.gif)
+A header file that contains the function of adding new queue and dequeue using the pop function. It also contains printing or displaying  function of the queue.
 
 ## Team
-Ariq Mahira - 1806187575
-Variscia Permata Putri - 1806228316
+* Ariq Mahira - 1806187575
+* Variscia Permata Putri - 1806228316
 
 ## References
