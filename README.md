@@ -28,6 +28,37 @@ Functions to display the account menu; log in and manage account. In order to be
 
 ## Create HTML 
 ![Alt Text](http://g.recordit.co/HE0QAuQ0G0.gif)
+This Header file contains the code to make display.html file, display.html file contains header and tables. Here is the HTML code
+
+
+<meta http-equiv=\"refresh\" content=\"2\">
+<style> body{ background-color: #f4f4f4; } table, th, td { border: 2px solid black; } </style>
+<h1 style="text-align: center; font-family:helvetica; color: #232020;">CASHIER QUEUE</h1>
+<table style="height: 387px; font-family:verdana; border-color: #f4f4f4; margin-left: auto; margin-right: auto;" width="989">
+<tbody>
+<tr style="height: 28px; border-color: #900C3F;">
+<td style="width: 237px; height: 28px; text-align: center; border-color: #3a3535;"><span style="color: #3a3535;"><strong>CASHIER 1</strong></span></td>
+<td style="width: 239px; height: 28px; text-align: center; border-color: #3a3535;"><span style="color: #3a3535;"><strong>CASHIER 2</strong></span></td>
+<td style="width: 241px; height: 28px; text-align: center; border-color: #3a3535;"><span style="color: #3a3535;"><strong>CASHIER 3</strong></span></td>
+</tr>
+<tr style="height: 72px; border-color: #900C3F;">
+<td style="width: 237px; height: 72px; text-align: center; border-color: #3a3535;">
+<span style="color: #ff7315;"><h2>NO QUEUE</h2></span>
+</td>
+<td style="width: 239px; height: 72px; text-align: center; border-color: #3a3535;">
+<span style="color: #ff7315;"><h2>NO QUEUE</h2></span>
+</td>
+<td style="width: 241px; height: 72px; text-align: center; border-color: #3a3535;">
+<span style="color: #ff7315;"><h2>NO QUEUE</h2></span>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+on the first line there is meta refresh function
+<meta http-equiv=\"refresh\" content=\"2\">
+Which will instruct the browser to refresh the code at 2 seconds interval.
 
 ## Technical Interface 
 ![Alt Text](http://g.recordit.co/HjP9P2RCXH.gif)
