@@ -17,8 +17,7 @@ This program is created with :
 * Code::Block version 17.12
 
 ## Setup
-Compile this code from Main Code
-* [Main Code](#main-code)
+To build the program, compile the code using C compiler. We use Dev C++ ( https://www.bloodshed.net/devcpp.html ) to compile the code, it is also possible to compile the code using another program.
 
 ## Main Code
 ![Alt Text](http://g.recordit.co/qPsNUenUK2.gif)
