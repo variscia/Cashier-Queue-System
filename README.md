@@ -24,13 +24,14 @@ To build the program, compile the code using C compiler. We use Dev C++ ( https:
 
 ## Account 
 ![Alt Text](http://g.recordit.co/SGUXGnoM6x.gif)
+Functions to display the account menu; log in and manage account. In order to be able to log in into the system, we used strcmp() to compares two strings character by character.
 
 ## Create HTML 
 ![Alt Text](http://g.recordit.co/HE0QAuQ0G0.gif)
 
 ## Technical Interface 
 ![Alt Text](http://g.recordit.co/HjP9P2RCXH.gif)
-
+Functions to display the menu with its template and the interface for the user to execute the program then displayed in the HTML.
 
 ## Linked List
 ![Alt Text](http://g.recordit.co/QJQJMPze0C.gif)
