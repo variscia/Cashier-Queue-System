@@ -65,7 +65,7 @@ Which will instruct the browser to refresh the code at 2 seconds interval. We us
 
 ### Refresh on Change in HTML File
 it is possible to instruct the browser to refresh when there is changes in the HTML file in order to reduce error occured when updating the html display. 
-We use live.js javascript ( livejs.com ) instead of the meta refresh, here is the code 
+It uses live.js javascript ( livejs.com ) instead of the meta refresh, here is the code 
 ```HTML
 <script type=\"text/javascript\" src=\"http://livejs.com/live.js\"></script>
 ```
