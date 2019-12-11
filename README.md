@@ -21,6 +21,7 @@ To build the program, compile the code using C compiler. We use Dev C++ ( https:
 
 ## Main Code
 ![Alt Text](http://g.recordit.co/qPsNUenUK2.gif)
+The main code of the program, consist of call function of createHTML(), open account file, menu, and add queue.
 
 ## Account 
 ![Alt Text](http://g.recordit.co/SGUXGnoM6x.gif)
