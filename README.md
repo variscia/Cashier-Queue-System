@@ -29,9 +29,9 @@ Functions to display the account menu; log in and manage account. In order to be
 
 ## Create HTML 
 ![Alt Text](http://g.recordit.co/HE0QAuQ0G0.gif)
-This Header file contains the code to make display.html file, display.html file contains header and tables. Here is the HTML code
+This Header file contains the code to make display.html file using FILE management included in 'stdio.h' header. for the display.html, it contains header and tables. Here is the HTML code: 
 
-```
+```HTML
 <meta http-equiv=\"refresh\" content=\"2\">
 <style> body{ background-color: #f4f4f4; } table, th, td { border: 2px solid black; } </style>
 <h1 style="text-align: center; font-family:helvetica; color: #232020;">CASHIER QUEUE</h1>
