@@ -26,7 +26,7 @@ The main code of the program, consist of call function of createHTML(), open acc
 
 ## Account 
 ![Alt Text](http://g.recordit.co/SGUXGnoM6x.gif)
-Functions to display the account menu; log in and manage account. In order to be able to log in into the system, we used strcmp() to compares two strings character by character.
+Functions to display the account menu; log in and manage account. In order to be able to log in into the system, we used strcmp() to compares two strings character by character. The account data will be saved in user.dat file.
 
 ## Create HTML 
 ![Alt Text](http://g.recordit.co/HE0QAuQ0G0.gif)
