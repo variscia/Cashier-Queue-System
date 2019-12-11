@@ -14,7 +14,8 @@ This program use basic C language.
 
 ## Technologies
 This program is created with :
-* Code::Block version 17.12
+* Dev C++ ( https://www.bloodshed.net/devcpp.html )
+* HTML Editor ( https://html5-editor.net/ )
 
 ## Setup
 To build the program, compile the code using C compiler. We use Dev C++ ( https://www.bloodshed.net/devcpp.html ) to compile the code, it is also possible to compile the code using another program.
