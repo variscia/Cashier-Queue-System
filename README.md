@@ -22,7 +22,7 @@ To build the program, compile the code using C compiler. We use Dev C++ ( https:
 
 ## Main Code
 ![Alt Text](http://g.recordit.co/qPsNUenUK2.gif)
-The main code of the program, consist of call function of createHTML(), open account file, menu, and add queue.
+The main code of the program, consist of call function of createHTML(), open account file, menu that redirect to other function used in this program, and add queue function.
 
 ## Account 
 ![Alt Text](http://g.recordit.co/SGUXGnoM6x.gif)
@@ -76,7 +76,7 @@ Functions to display the menu with its template and the interface for the user t
 
 ## Linked List
 ![Alt Text](http://g.recordit.co/QJQJMPze0C.gif)
-A header file that contains the function of adding new queue and dequeue using the pop function. It also contains printing or displaying  function of the queue.
+A header file that contains linked list function of adding new queue and dequeue using the pop function. It also contains printing or displaying function of the queue.
 
 ## Team
 * Ariq Mahira - 1806187575
