@@ -83,3 +83,5 @@ A header file that contains linked list function of adding new queue and dequeue
 * Variscia Permata Putri - 1806228316
 
 ## References
+* https://www.geeksforgeeks.org/data-structures/linked-list/
+* https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/
