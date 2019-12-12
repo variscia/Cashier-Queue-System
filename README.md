@@ -26,6 +26,13 @@ This program is created with :
 ## Setup
 To build the program, compile the code using C compiler. We use Dev C++ ( https://www.bloodshed.net/devcpp.html ) to compile the code, it is also possible to compile the code using another program.
 
+### Setup Local Host Server for Auto Update Display
+To [Auto update display](#Refresh-on-Change-in-HTML-File) when there is change in HTML file, it is needed to make local server, we use phyton to make this possible, by writing http server command on the current directory, here is the command:
+```
+$ python -m http.server 8000
+```
+Then, open localhost:8000 on the browser and access the HTML file. there is another method using other programming language which listed here https://gist.github.com/willurd/5720255 
+
 ## Main Code
 ![Alt Text](http://g.recordit.co/qPsNUenUK2.gif)
 The main code of the program, consist of call function of createHTML(), open account file, menu that redirect to other function used in this program, and add queue function.
