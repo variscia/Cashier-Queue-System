@@ -12,11 +12,11 @@ Cashier Queue System is a project that imitates queue system on cashier. This pr
 ## General Info
 This program use basic C language.
 ### Features
-* - Adding New Queue
-* - Dequeue the Queue to proceed it to appointed Cashier
-* - Make new Account
-* - Edit Username/Password of existing Account
-* - Displaying Queue Number on the appointed Cashier
+* Adding New Queue
+* Dequeue the Queue to proceed it to appointed Cashier
+* Make new Account
+* Edit Username/Password of existing Account
+* Displaying Queue Number on the appointed Cashier
 
 ## Technologies
 This program is created with :
