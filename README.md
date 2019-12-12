@@ -64,8 +64,8 @@ on the first line there is meta refresh function
 Which will instruct the browser to refresh the code at 2 seconds interval. We use the meta refresh to update the queue number display.
 
 ### Refresh on Change in HTML File
-it is possible to instruct the browser to refresh when there is changes in the HTML file in order to reduce error occured when updating the html display. 
-It uses live.js javascript ( livejs.com ) instead of the meta refresh, here is the code 
+It is possible to instruct the browser to refresh when there are changes in the HTML file in order to reduce error occured when updating the html display. 
+It use live.js javascript ( livejs.com ) instead of the meta refresh, using this type of code :
 ```HTML
 <script type=\"text/javascript\" src=\"http://livejs.com/live.js\"></script>
 ```
