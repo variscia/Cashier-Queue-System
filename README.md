@@ -27,7 +27,7 @@ This program is created with :
 To build the program, compile the code using C compiler. We use Dev C++ ( https://www.bloodshed.net/devcpp.html ) to compile the code, it is also possible to compile the code using another program.
 
 ### Setup Local Host Server for Auto Update Display
-To [Auto update display](#Refresh-on-Change-in-HTML-File) when there is change in HTML file, it is needed to make local server, we use phyton to make this possible, by writing http server command on the current directory, here is the command:
+To [Auto update display](#Refresh-on-Change-in-HTML-File) when there is change in HTML file, we need to make local server, we use phyton to make this possible by writing http server command on the current directory, here is the command:
 ```
 $ python -m http.server 8000
 ```
